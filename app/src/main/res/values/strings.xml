@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hola Mundo</string>
+    <string name="title_name">Hola compañeros</string>
+    <string name="subtitle_name">Esta es mi aplicación de prueba</string>
+</resources>

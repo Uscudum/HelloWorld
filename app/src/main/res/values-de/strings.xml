@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hallo Welt</string>
+    <string name="title_name">Hallo Partner</string>
+    <string name="subtitle_name">Dies ist meine Testanwendung</string>
+</resources>
